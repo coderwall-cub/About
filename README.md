@@ -1,4 +1,4 @@
-#### The Cub Achievement is awarded to registered Coderwall members that have open sourced at least one original jQuery or Prototype epo.
+#### The Cub Achievement is awarded to registered Coderwall members that have open sourced at least one original jQuery or Prototype repo.
 
 
 ## What is Coderwall
